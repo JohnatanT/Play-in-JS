@@ -1,0 +1,3 @@
+Jogo produzido para fins educativos em JavaScript.
+Game produced for educational purposes in JavaScript.
+GitHub: JohnatanT
